@@ -35,7 +35,7 @@ This is a high-fidelity UI/UX design for a fashion e-commerce mobile app inspire
 
 ## 📎 Files Included
 
-- `PRADA Fashion Slider App (IOS).fig` – Raw Figma file 
+
 - `screenshots/` – Preview images of the app flow
 - `README.md` – Project description
 
